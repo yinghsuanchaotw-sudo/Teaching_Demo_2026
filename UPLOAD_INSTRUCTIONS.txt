@@ -1,7 +1,0 @@
-Upload index.html, the did folder, and the files folder to the root of your existing teaching-demo repository. Replace the existing index.html; keep the datasets and worksheet in files. Commit changes.
-
-Course homepage: https://yinghsuanchaotw-sudo.github.io/teaching-demo/
-DiD module: https://yinghsuanchaotw-sudo.github.io/teaching-demo/did/
-Assignment 1: https://yinghsuanchaotw-sudo.github.io/teaching-demo/did/assignment-1.html
-
-The in-class worksheet is a coming-soon placeholder until you supply the file. RDD and Synthetic Control have coming-soon module cards. No LaTeX source, worked scripts, or instructor solutions are included.
